@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Government</string>
+    <string name="About">About</string>
+    <string name="search">Search</string>
+    <string name="know_your_government">Know Your Government</string>
+    <string name="_2020_wisa_terhune_praphruettam">©2020, Wisa Terhune-Praphruettam</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="powered_by">powered by</string>
+    <string name="link"><a href="https://developers.google.com/civic-information/">Google Civic Information API</a></string>
+    <string name="party">party</string>
+    <string name="line">line</string>
+    <string name="image_of_official">image_of_official</string>
+    <string name="facebook">facebook</string>
+    <string name="twitter">twitter</string>
+    <string name="youtube">youtube</string>
+    <string name="googleplus">googleplus</string>
+    <string name="official_image">official image</string>
+    <string name="todo">TODO</string>
+    <string name="data_file">DataFile.json</string>
+</resources>
